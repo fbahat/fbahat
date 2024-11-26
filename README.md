@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning machine learning, python programming, and deep learning.
 
-💞️ I’m looking to collaborate on data science projects with business cases and data-driven solutions for businesses of all sizes.
+ I’m looking to collaborate on data science projects with business cases and data-driven solutions for businesses of all sizes.
 
 📫 How to reach me
 email: furkan.bahat61@gmail.com
