@@ -19,6 +19,8 @@
 
 **Data Visualization:** Tableau, Looker, Plotly Dash, Google Data Studio, Adobe Illustrator (for custom graphics)
 
+**Projects :** https://github.com/fbahat?tab=repositories
+
 **📫 How to reach me**
 email: furkan.bahat61@gmail.com
 LinkedIn: (https://www.linkedin.com/in/fbahat/)
