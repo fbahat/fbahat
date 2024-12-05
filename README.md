@@ -7,6 +7,8 @@
  I’m looking to collaborate on data science projects with business cases and data-driven solutions for businesses of all sizes.
 
 Skills and Expertise
+
+
 Programming Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
 
 Machine Learning: Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering), Reinforcement Learning, Natural Language Processing (NLTK, spaCy), XGBoost, LightGBM
