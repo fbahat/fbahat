@@ -6,6 +6,17 @@
 
  I’m looking to collaborate on data science projects with business cases and data-driven solutions for businesses of all sizes.
 
+Skills and Expertise
+Programming Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
+
+Machine Learning: Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering), Reinforcement Learning, Natural Language Processing (NLTK, spaCy), XGBoost, LightGBM
+
+Data Science Expertise: Computer Vision, Time Series Analysis, Geospatial Analysis, Anomaly Detection, A/B Testing, Experimental Design, Feature Engineering, Data Preprocessing, Model Evaluation and Hyperparameter Tuning
+
+Deep Learning: Vertex AI, Tensorflow, PyTorch
+
+Data Visualization: Tableau, Looker, Plotly Dash, Google Data Studio, Adobe Illustrator (for custom graphics)
+
 📫 How to reach me
 email: furkan.bahat61@gmail.com
 LinkedIn: (https://www.linkedin.com/in/fbahat/)
